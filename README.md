@@ -3,56 +3,55 @@
 
 ## PROJECT OBJECTIVE
 "To design an HR Analytics Dashboard that provides insights into employee demographics, attrition rates, performance metrics, and hiring trends, enabling data-driven decision-making to improve workforce management and retention strategies."
+
 ## DATASET USED 
--<a href = " ">Calendar </a> 
 
+-<a href = "https://github.com/RichaGitHub1009/HR-ANALYTICS-DASHBOARD/commit/8292d78c208e905ff90287cc8a19ab4b978738eb#diff-81ab7d702e45ec9504462e71affda3eefe6be6fcaeb057318be0bfe23ba9be38">HR Data </a> 
 
-  
 ## QUESTION [KPIs]
-•	Product wise detals
+•	Overall Employee
 
-•	Sub Categories wise Order 
+•	Total Attrition
 
-•	Categories wise Order 
+•	Attrition Rate
 
-•	Monthly Revenue previous month
+•	Average Age
 
-•	Monthly Order previous month
+• Average Salary
 
-•	Monthly Returns previous month
+•	Years At Company
 
-•	Country wise Returns
+•	Males Vs Female Employee
 
-•	Customer wise detals
+•	Attrition by Eduction Field
 
-•	Order by Gender
+•	Attrition by Age
 
-•	Order by Education-Level
+•	Attrition by Salary Slab
 
-•	Order by Occupation
+• Attrition by Years at Company
 
-•	Order and revenue by month
+• Attrition by Job Role
 
-• Quantity Sold by age
-
-•	Dashboard interaction -<a href = " ">HR Analytics Dashboard </a>
+•	Dashboard interaction -<a href = "https://raw.githubusercontent.com/RichaGitHub1009/HR-ANALYTICS-DASHBOARD/8292d78c208e905ff90287cc8a19ab4b978738eb/HR_Analytics.png">HR Analytics Dashboard </a>
 
 ## DASHBOARD
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://raw.githubusercontent.com/RichaGitHub1009/HR-ANALYTICS-DASHBOARD/8292d78c208e905ff90287cc8a19ab4b978738eb/HR_Analytics.png)
 
 
 
 ## PROJECT INSIGHT
-•	Monthly Revenue of previous month has crossed the goal 
 
-•	Monthly Returns of previous month has crossed the goal 
+•	Female average salary is more than male
 
-•	Top Product Ordered
+•	Male Attrition rate is higher than female
 
-•	Top Product which make store Profit
+•	Female are more at companny than male
 
-•	Order and revenue by month by customers.
+•	Sales Attrition rate is highest ie 20.67%
 
-•	Top customer with maximum revenue and total orders.
+•	Research and Development has highest oveall employee
+
+
 ## FINAL CONCLUSION
-To improve the sales of AdventureWorks  store, a strategic marketing plan focused on central west to improve its revenue. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should  include targeted 
+The HR Analytics Dashboard successfully consolidates key employee metrics, providing a comprehensive view of workforce trends such as attrition rates, performance levels, and hiring patterns. This tool enables HR teams to make data-driven decisions to enhance employee retention, optimize resource allocation, and improve overall organizational performance. By presenting complex HR data in an intuitive, user-friendly format, the dashboard empowers leadership to identify and act upon emerging trends and workforce needs with greater accuracy and efficiency.
